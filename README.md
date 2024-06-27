@@ -8,6 +8,9 @@ _NOTE: This repository is part of cloud data engineering roadmap for getting han
 - Similar to other RDBMS software, SQL Server is built on top of SQL.
 - SQL Server is tied to Transact-SQL, or T-SQL which includes a set of proprietary programming constructs.
 
+![SQL-Cheatsheet](https://github.com/umair7228/T-SQL/assets/154393500/6f8350c5-73b0-4610-a821-dd263dcb7816)
+
+
 ## SQL Server Architecture
 
 SQL Server consists of two main components:
