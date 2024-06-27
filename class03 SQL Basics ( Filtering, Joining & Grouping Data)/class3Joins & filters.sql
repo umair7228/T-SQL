@@ -171,6 +171,8 @@ VALUES
 	('Luqman');
 
 SELECT *
+FROM hr.candidates;
+SELECT *
 FROM hr.employees;
 
 -- INNER join: It will bring the matching values from both tables
@@ -259,7 +261,7 @@ FROM
 	ON c.full_name = e.full_name
 	WHERE c.id IS NULL;
 
--- cross jon
+-- cross jon: Cross Join in SQL produces a result set that contains the cartesian product of two or more tables. Cross join is also called a Cartesian Join. 
 -- a = (1,2,3,)
 -- b = (a,b,c)
 -- axb = (1,a)(1,b)(1,c).....
